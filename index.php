@@ -8,4 +8,4 @@
 	header('Location: '.$uri.'/xampp/');
 	exit;
 ?>
-Something is wrong with the XAMPP installation :-(yesasdasdasddgdsfgdfsgdsf	dfgdfgdf
+Something is wrong with the XAMPP installation :-(
